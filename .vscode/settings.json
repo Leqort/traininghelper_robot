@@ -1,0 +1,7 @@
+{
+    "workbench.panel.defaultLocation": "bottom",
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.allowChords": true,
+    "terminal.integrated.confirmOnExit": "never",
+    "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
