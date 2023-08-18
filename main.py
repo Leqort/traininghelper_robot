@@ -10,7 +10,7 @@ import requests
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=config.bot_token.get_secret_value())
-dp = Dispatcher()
+dp = Dispatcher() 
 
 
 @dp.message(Command("start"))
